@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1431260964 source:/home/youstina/Desktop/solitaire/main.cpp
+	<iostream>
+	<algorithm>
+

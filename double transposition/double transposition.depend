@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1429448356 source:/home/youstina/Desktop/double transposition/main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+
